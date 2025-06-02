@@ -1,0 +1,2 @@
+# PressOneAfricaQATask
+Technical assessment
